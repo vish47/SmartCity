@@ -1,0 +1,7 @@
+git init
+git remote add origin {path }
+git remote -v
+git add .
+git commit -m "foldername"
+git push origin master 
+
